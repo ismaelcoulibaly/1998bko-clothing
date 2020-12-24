@@ -1,5 +1,5 @@
 {
-  "name": "youtubeSync-Web-App",
+  "name": "1998bko-clothing",
   "version": "1.0.0",
   "description": "ismo",
   "main": "index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ismaelcoulibaly/youtubeSync-Web-App.git"
+    "url": "git+https://github.com/ismaelcoulibaly/1998bko-clothing.git"
   },
   "keywords": [
     "node"
@@ -25,7 +25,7 @@
   "author": "ismo",
   "license": "ISC",
   "bugs": {
-    "url": "//https://github.com/ismaelcoulibaly/youtubeSync-Web-App.git/issues"
+    "url": "//https://github.com/ismaelcoulibaly/1998bko-clothing.git/issues"
   },
-  "homepage": "https://github.com/ismaelcoulibaly/youtubeSync-Web-App.git#readme"
+  "homepage": "https://github.com/ismaelcoulibaly/1998bko-clothing.git#readme"
 }
