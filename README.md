@@ -3,7 +3,7 @@
 --> JavaScript, Node.js, Jquery, Socket.Io, HTML, CSS
 --> this app allows to sync different viewers youtube video connected on the same link. 
 
-# 1998bko-clothing
+# node-js
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
@@ -13,8 +13,8 @@ This application supports the [Getting Started with Node on Heroku](https://devc
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone git@github.com:ismaelcoulibaly/1998bko-clothing.git # or clone your own fork
-$ cd 1998bko-clothing
+$ git clone git@github.com:ismaelcoulibaly/node-js.git # or clone your own fork
+$ cd node-js
 $ npm install
 $ npm start
 ```
